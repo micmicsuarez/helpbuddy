@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/helpbuddy/static/css/main.584f321a.chunk.css",
+    "main.js": "/helpbuddy/static/js/main.3030f439.chunk.js",
+    "main.js.map": "/helpbuddy/static/js/main.3030f439.chunk.js.map",
+    "runtime~main.js": "/helpbuddy/static/js/runtime~main.2112dabe.js",
+    "runtime~main.js.map": "/helpbuddy/static/js/runtime~main.2112dabe.js.map",
+    "static/js/2.b41502e9.chunk.js": "/helpbuddy/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/helpbuddy/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/helpbuddy/index.html",
+    "precache-manifest.fe08e3505f4e470df23c89f625d3560a.js": "/helpbuddy/precache-manifest.fe08e3505f4e470df23c89f625d3560a.js",
+    "service-worker.js": "/helpbuddy/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/helpbuddy/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/helpbuddy/static/media/logo.5d5d9eef.svg"
+  }
+}
